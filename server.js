@@ -3,7 +3,7 @@ var express = require('express');
 var request = require('request').defaults({jar: true});
 var fs = require("fs");
 
-// Author: Quenty
+// Author: Reasons2Blox
 // Intent: Helps auto-rank members
 
 var app = express();
